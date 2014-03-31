@@ -1,6 +1,6 @@
 # Ask mTurk Anything
 
-*Michael Kosler, Nishaanth Narayanan*
+*Michael Kosler, Nishaanth Narayanan, David Alexander Paul*
 
 ## Dependencies
 
